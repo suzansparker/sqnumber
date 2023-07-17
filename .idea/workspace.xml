@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf727c0f-67fa-42a4-8aac-430853cb72bb" name="Changes" comment="" />
+    <list default="true" id="bf727c0f-67fa-42a4-8aac-430853cb72bb" name="Changes" comment="countsmall" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +83,7 @@
       <workItem from="1689596091692" duration="4000" />
       <workItem from="1689597137229" duration="15000" />
       <workItem from="1689608160727" duration="31000" />
-      <workItem from="1689616315798" duration="1468000" />
+      <workItem from="1689616315798" duration="1780000" />
     </task>
     <task id="LOCAL-00001" summary="linserach">
       <option name="closed" value="true" />
@@ -165,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689617633316</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="countsmall">
+      <option name="closed" value="true" />
+      <created>1689618095649</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1689618095649</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +189,7 @@
     <MESSAGE value="subarrey" />
     <MESSAGE value="sarrays" />
     <MESSAGE value="Specialsequence" />
-    <option name="LAST_COMMIT_MESSAGE" value="Specialsequence" />
+    <MESSAGE value="countsmall" />
+    <option name="LAST_COMMIT_MESSAGE" value="countsmall" />
   </component>
 </project>
