@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf727c0f-67fa-42a4-8aac-430853cb72bb" name="Changes" comment="minmax">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bf727c0f-67fa-42a4-8aac-430853cb72bb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +83,7 @@
       <workItem from="1689596091692" duration="4000" />
       <workItem from="1689597137229" duration="15000" />
       <workItem from="1689608160727" duration="31000" />
-      <workItem from="1689616315798" duration="688000" />
+      <workItem from="1689616315798" duration="1046000" />
     </task>
     <task id="LOCAL-00001" summary="linserach">
       <option name="closed" value="true" />
@@ -151,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689578611169</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="sarrays">
+      <option name="closed" value="true" />
+      <created>1689617381025</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1689617381025</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +171,7 @@
     <MESSAGE value="evenum" />
     <MESSAGE value="minmax" />
     <MESSAGE value="subarrey" />
-    <option name="LAST_COMMIT_MESSAGE" value="subarrey" />
+    <MESSAGE value="sarrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="sarrays" />
   </component>
 </project>
