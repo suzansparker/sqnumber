@@ -83,7 +83,7 @@
       <workItem from="1689596091692" duration="4000" />
       <workItem from="1689597137229" duration="15000" />
       <workItem from="1689608160727" duration="31000" />
-      <workItem from="1689616315798" duration="1046000" />
+      <workItem from="1689616315798" duration="1468000" />
     </task>
     <task id="LOCAL-00001" summary="linserach">
       <option name="closed" value="true" />
@@ -157,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689617381025</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Specialsequence">
+      <option name="closed" value="true" />
+      <created>1689617633316</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1689617633316</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +180,7 @@
     <MESSAGE value="minmax" />
     <MESSAGE value="subarrey" />
     <MESSAGE value="sarrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="sarrays" />
+    <MESSAGE value="Specialsequence" />
+    <option name="LAST_COMMIT_MESSAGE" value="Specialsequence" />
   </component>
 </project>
