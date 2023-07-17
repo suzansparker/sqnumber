@@ -79,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689567789364</updated>
-      <workItem from="1689567790120" duration="5353000" />
+      <workItem from="1689567790120" duration="6296000" />
     </task>
     <task id="LOCAL-00001" summary="linserach">
       <option name="closed" value="true" />
@@ -113,7 +113,23 @@
       <option name="project" value="LOCAL" />
       <updated>1689573832436</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="eqi">
+      <option name="closed" value="true" />
+      <created>1689574591065</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689574591065</updated>
+    </task>
+    <task id="LOCAL-00006" summary="evenum">
+      <option name="closed" value="true" />
+      <created>1689574990955</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689574990955</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +139,8 @@
     <MESSAGE value="linserach" />
     <MESSAGE value="seclargest" />
     <MESSAGE value="prefix" />
-    <option name="LAST_COMMIT_MESSAGE" value="prefix" />
+    <MESSAGE value="eqi" />
+    <MESSAGE value="evenum" />
+    <option name="LAST_COMMIT_MESSAGE" value="evenum" />
   </component>
 </project>
